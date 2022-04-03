@@ -59,5 +59,11 @@ contributions:
       url: "https://basvogel.nl"
     url: "https://editor.p5js.org/Basz/present/RNzUk1pLn"
     source: "https://editor.p5js.org/Basz/sketches/RNzUk1pLn"
+  - title: "Animated Mandelbrot Explorer"
+    author:
+      name: "Diese Kartoffel"
+      url: "https://github.com/DieseKartoffel"
+    url: "https://bratp.fun/mandelbrot"
+    source: "https://github.com/DieseKartoffel/mandelbrot"
 ---
 In this coding challenge, I program from scratch the Mandelbrot set with p5.js
